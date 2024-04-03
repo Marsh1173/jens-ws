@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["ES2020", "DOM"],
+    "esModuleInterop": true,
+    "target": "ESNext",
+    "experimentalDecorators": true,
+    "module": "NodeNext"
+  },
+  "include": ["**/*.js", "**/*.ts", "**/*.tsx"]
+}
